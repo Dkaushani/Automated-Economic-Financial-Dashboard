@@ -1,5 +1,5 @@
 # Automated-Economic-Financial-Dashboard
-Data Wrangling, Time-Series &amp; API Integration
+#Data Wrangling, Time-Series &amp; API Integration
 Founded key macro relationship using S&P 500, Crude Oil and 10-Year Treasury Yield.
 
 Macro Economic Dashboard (2020–Present)
