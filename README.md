@@ -19,3 +19,10 @@ The 2020 Market Crash: The sudden drop in stock and oil prices during early COVI
 The 2021–2022 Inflation Surge: Energy prices spiking above $120/barrel following post-lockdown demand surges and the outbreak of war in Europe.
 
 The Fed Rate Hikes: Treasury yields climbing toward 5% as the central bank worked to curb inflation, placing noticeable pressure on equity markets.
+
+
+<img width="875" height="269" alt="image" src="https://github.com/user-attachments/assets/609b93a7-63b3-40ce-8617-a050870f35be" />
+
+
+
+<img width="888" height="263" alt="image" src="https://github.com/user-attachments/assets/a05c5bba-da69-4249-ad61-9d8547f8092b" />
